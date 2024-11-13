@@ -1,4 +1,4 @@
-
+accessToken = get_access_token()
 cityInfo = {
   "北京": {
     "北京": {
